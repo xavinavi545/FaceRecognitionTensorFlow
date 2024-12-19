@@ -1,0 +1,22 @@
+# Ignorar entornos virtuales
+venv/
+__pycache__/
+
+# Ignorar archivos del modelo entrenado
+*.h5
+
+# Ignorar datasets locales
+dataset_faces/
+
+# Ignorar archivos temporales
+*.tmp
+*.log
+.DS_Store
+
+# Ignorar configuraciones del editor (ej. VSCode)
+.vscode/
+
+# Ignorar archivos de caché
+*.pyc
+*.pyo
+*.pyd
